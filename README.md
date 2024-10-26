@@ -1,2 +1,2 @@
 # gitVideo
-first trial with github
+first trial with github!
